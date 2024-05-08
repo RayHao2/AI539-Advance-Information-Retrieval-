@@ -1,0 +1,40 @@
+TFIDF Vector cosine-simQuery: ['gener', 'chicken']
+0.3982444105851861 ['amaz', 'chicken'] index: 24924
+0.5515804967600577 ['great', 'atmospher', 'delici', 'food', 'gener', 'serv'] index: 97921
+0.5515804967600577 ['great', 'atmospher', 'delici', 'food', 'gener', 'serv'] index: 97922
+Query: ['fri', 'chicken']
+0.5901002336085934 ['amaz', 'chicken'] index: 24924
+0.6138468331946823 ['the', 'fri', 'chicken', 'tast', 'great', 'fri', 'fresh', 'custom', 'servic', 'good', 'i', 'ca', 'nt', 'complain', 'i', 'fri', 'chicken', 'chicago', 'tast', 'like'] index: 57196
+0.8094989310317973 ['the', 'fri', 'chicken', 'amaz'] index: 97797
+Query: ['bbq', 'sandwich']
+0.726136278551832 ['great', 'bbq', 'love'] index: 27334
+0.7829621311134853 ['great', 'bbq'] index: 29051
+0.7829621311134853 ['great', 'bbq'] index: 29738
+Query: ['mash', 'potato']
+0.5913111947285985 ['portion', 'huge', 'waffl', 'chicken', 'the', 'fri', 'chicken', 'juici', 'waffl', 'bacon', 'bit', 'insid', 'great', 'rib', 'mash', 'potato', 'the', 'rib', 'pretti', 'good', 'mash', 'potato', 'perfect'] index: 49574
+0.6989225405204111 ['mash', 'potato', 'pizza', 'sign'] index: 90635
+0.6774330863059914 ['a', 'place', 'mash', 'potato', 'pizza', 'top', 'need', 'i', 'say'] index: 92028
+Query: ['grill', 'shrimp', 'salad']
+0.4529745884979909 ['grill', 'corn'] index: 41480
+0.5137574666369809 ['great', 'atmospher', 'the', 'sea', 'bass', 'look', 'good', 'i', 'order', 'salad', 'grill', 'shrimp', 'the', 'veget', 'salad', 'tasti', 'i', 'think', 'lunch', 'would', 'great'] index: 23367
+0.4581250654289463 ['grill', 'oyster'] index: 79702
+Query: ['lamb', 'shank']
+0.4836940443617836 ['wonder', 'food', 'pricey', 'get', 'order', 'pork', 'shank', 'big', 'head', 'get', 'dessert', 'ca', 'nt', 'wait', 'tri', 'brunch'] index: 68308
+0.5403563042496025 ['last', 'night', 'i', 'went', 'favorit', 'eat', 'buddi', 'we', 'love', 'tapa', 'favorit', 'probabl', 'tapa', 'barcelona', 'evanston', 'the', 'sangria', 'solid', 'not', 'earth', 'shatter', 'certainli', 'serv', 'purposeof', 'dish', 'seafood', 'salad', 'underwhelm', 'the', 'grill', 'octopu', 'potato', 'delici', 'although', 'potato', 'littl', 'mislead', 'it', 'realiti', 'octopu', 'mix', 'thin', 'home', 'made', 'fri', 'surprisingli', 'good', 'combow', 'finish', 'lamb', 'shank', 'the', 'shank', 'die', 'everyth', 'shank', 'howev', 'reason', 'neither', 'us', 'could', 'figur', 'surround', 'shank', 'overli', 'sweet', 'tangi', 'shallow', 'dark', 'sauc', 'would', 'remind', 'ketchup', 'not', 'someth', 'i', 'want', 'shank', 'but', 'i', 'determin', 'let', 'anyth', 'distract', 'tender', 'succul', 'shankal', 'i', 'say', 'iberico', 'ok', 'great', 'i', 'never', 'realli', 'amaz', 'the', 'waiter', 'absent', 'time', 'timei', 'go', 'back', 'wont', 'first', 'choic'] index: 72227
+0.5081203201108525 ['visit', 'chicago', 'last', 'year', 'stop', 'tapa', 'bar', 'i', 'love', 'i', 'love', 'much', 'i', 'came', 'twice', 'the', 'brais', 'lamb', 'shank', 'gnocchi', 'favorit', 'the', 'lamb', 'shank', 'nice', 'tender', 'fall', 'bone', 'gnocchi', 'plate', 'full', 'heaven', 'we', 'order', 'much', 'food', 'manag', 'pull', 'anoth', 'stool', 'make', 'makeshift', 'tabl', 'us', 'the', 'servic', 'excel', 'manag', 'even', 'gave', 'us', 'cell', 'phone', 'number', 'want', 'come', 'back', 'ye', 'i', 'would', 'definit', 'come', 'back', 'i', 'ever', 'chicago'] index: 74805
+Query: ['pepperoni', 'pizza']
+0.6695234268429823 ['thi', 'pizza', 'freakin', 'good', 'nice', 'brick', 'oven', 'style', 'pizza', 'got', 'pepperoni', 'pizza', 'pizza', 'white', 'sauc', 'pepperoni', 'pizza', 'better', 'i', 'recommend', 'go', 'red', 'sauc', 'white'] index: 90907
+0.814204456517217 ['i', 'realli', 'want', 'like', 'pizza', 'especi', 'glow', 'review', 'and', 'part', 'i', 'i', 'one', 'problem', 'pizza', 'i', 'order', 'pepperoni', 'pizza', 'pie', 'cover', 'mani', 'pepperoni', 'i', 'thought', 'i', 'order', 'pepperoni', 'lover', 'whi', 'complain', 'well', 'i', 'tend', 'enjoy', 'pepperoni', 'cook', 'chees', 'oppos', 'pepperoni', 'thrown', 'top', 'mere', 'anoth', 'top', 'and', 'much', 'pepperoni', 'pizza', 'salti', 'tast', 'so', 'i', 'give', 'NUM', 'star', 'becaus', 'i', 'took', 'pepperoni', 'one', 'heck', 'pizza', 'next', 'time', 'i', 'order', 'pequod', 'i', 'get', 'chees', 'sausag', 'pizza', 'i', 'also', 'mention', 'pequod', 'great', 'relax', 'atmospher', 'good', 'staff'] index: 89024
+0.7202317911208942 ['NUM', 'deep', 'dish', 'pepperoni'] index: 66790
+Query: ['brussel', 'sprout', 'salad']
+0.6744818211830717 ['almost', 'best', 'steak', 'ever', 'life', 'amaz', 'brussel', 'sprout', 'well'] index: 60671
+0.7174160091166695 ['solid', 'food', 'around', 'good', 'wine', 'good', 'steak', 'good', 'side', 'not', 'much', 'say', 'except', 'definit', 'tri', 'brussel', 'sprout', 'cook', 'bacon', 'one', 'side', 'ye', 'brussel', 'sprout', 'you', 'disappoint'] index: 60537
+0.8095254551678941 ['best', 'brussel', 'sprout', 'i', 'ever', 'experienc', 'get', 'excit', 'brussel', 'sprout', 'i', 'NUM', 'star', 'must', 'order', 'reason'] index: 96467
+Query: ['friendli', 'staff']
+0.6915551633247591 ['great', 'food', 'reason', 'price', 'friendli', 'staff'] index: 33473
+0.7115112113732931 ['great', 'place', 'eat', 'friend', 'friendli', 'staff', 'food', 'great'] index: 38279
+0.7872239477271875 ['long', 'wait', 'good', 'food', 'friendli', 'staff'] index: 59211
+Query: ['grill', 'chees']
+0.6106916250374624 ['the', 'grill', 'oyster', 'good'] index: 79384
+0.6186229150337094 ['grill', 'corn'] index: 41480
+0.6256568704337387 ['grill', 'oyster'] index: 79702

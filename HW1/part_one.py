@@ -162,4 +162,11 @@ def part_one():
     # plt.title('DF graph')
     # plt.show()
 
-part_one()
+
+def main():
+    part_one()
+
+
+
+if __name__ == "__main__":
+    main()
